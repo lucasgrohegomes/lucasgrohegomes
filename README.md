@@ -1,5 +1,5 @@
 # 💫 Sobre Mim:
-Eu estou estudando no SENAI São José, Curso Técnico Integrado ao Ensino Médio de Desenvolvimento de Sistemas e estou como Jovem Aprendiz na FIESC e fazendo aprendizagem industrial.<br>Estou disposto a colaborar ao publicar meus códigos trabalhados em sala de aula<br>Estarei atento a sugestões e contribuições<br>Estou atualmente aprendendo sobre: HTML, CSS, JavaScript e Python.
+Olá, meu nome é Lucas e tenho 17 anos. Eu estou estudando no SENAI São José, Curso Técnico Integrado ao Ensino Médio de Desenvolvimento de Sistemas e estou como Jovem Aprendiz na FIESC e fazendo aprendizagem industrial.<br>Estou disposto a colaborar ao publicar meus códigos trabalhados em sala de aula<br>Estarei atento a sugestões e contribuições<br>Estou atualmente aprendendo sobre: HTML, CSS, JavaScript e Python.
 
 No momento, estou interessado em aplicar os pacotes RPA e Selenium da linguagem Python para desenvolver sistemas de auxílio e automação completa para processos digitais e cotidianos. Também tenho interesse em Inteligência Artificial e Machine Learning.
 
